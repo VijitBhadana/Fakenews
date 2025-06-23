@@ -1,4 +1,6 @@
 flask
-pandas
-scikit-learn
+flask-cors
 joblib
+scikit-learn
+pandas
+numpy
